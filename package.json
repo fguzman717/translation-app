@@ -1,0 +1,28 @@
+{
+  "name": "translation-app",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fguzman717/translation-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fguzman717/translation-app/issues"
+  },
+  "homepage": "https://github.com/fguzman717/translation-app#readme",
+  "description": "",
+  "dependencies": {
+    "dompurify": "^3.3.3",
+    "dotenv": "^17.4.1",
+    "express": "^5.2.1",
+    "marked": "^18.0.0",
+    "openai": "^6.33.0"
+  }
+}
